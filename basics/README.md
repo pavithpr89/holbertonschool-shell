@@ -10,5 +10,6 @@ task 5 : lists the current working directory files in long format as user and gr
 task 6 : creates my_first_directory inside the /tmp
 task 7 : move betty to  my_first_directory
 task 8 : remove betty from  my_first_directory
+task 9 : remove my_first_directory
 
 
