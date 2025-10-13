@@ -14,6 +14,8 @@ task 9 : remove my_first_directory
 task 10 : change to previous working directory
 task 11 : lists all files (including hidden) in current , parent and /boot directories
 task 12 : print the type of the file named iamafile
+task 13 : creating a symbolic link
+
 
 
 
