@@ -12,6 +12,8 @@ task 7 : move betty to  my_first_directory
 task 8 : remove betty from  my_first_directory
 task 9 : remove my_first_directory
 task 10 : change to previous working directory
+task 11 : lists all files (including hidden) in current , parent and /boot directories
+
 
 
 
