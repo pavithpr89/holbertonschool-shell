@@ -2,5 +2,7 @@
 Author:  Pavith Rajapakse
 
 task 1 : switches to the current user betty
+task 2 : prints the current user betty
+
 
 
