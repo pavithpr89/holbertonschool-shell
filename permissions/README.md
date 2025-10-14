@@ -8,6 +8,8 @@ task 3 : Write a script that changes the owner of the file hello to the user bet
 task 4 : creates empty file named hello
 task 5 : adds execute permission to the owner hello
 task 6 : adds permissions to others
+task 7 : adds execution permission to all users
+
 
 
 
