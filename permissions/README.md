@@ -11,6 +11,8 @@ task 6 : adds permissions to others
 task 7 : adds execution permission to all users
 task 8 : other have permission to everything
 task 9 : setting custom permission to hello
+task 10 : mirroring task
+
 
 
 
