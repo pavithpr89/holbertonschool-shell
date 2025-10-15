@@ -8,7 +8,11 @@ Task 3 : display the contents of the /etc/passwd dir and /etc/hosts
 Task 4 : display last 10 lines of  /etc/passwd
 Task 5 : display first 10 lines of  /etc/passwd
 Task 6 : display line 3 of a given file
-Task 7 : create a wierd file
+Task 7 : create a wierd file (DID NOT WORK CHECK LATER)
+Task 8 : saves current state of directory
+
+
+
 
 
 
