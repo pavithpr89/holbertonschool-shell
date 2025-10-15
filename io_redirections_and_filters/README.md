@@ -12,6 +12,8 @@ Task 7 : create a wierd file (DID NOT WORK CHECK LATER)
 Task 8 : saves current state of directory
 Task 9 : duplicates the last line of the file iacta
 Task 10 : deletes .js files in directory
+Task 11 : counts directories and sub directories
+
 
 
 
