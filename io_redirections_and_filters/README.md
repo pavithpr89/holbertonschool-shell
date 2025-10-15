@@ -13,6 +13,9 @@ Task 8 : saves current state of directory
 Task 9 : duplicates the last line of the file iacta
 Task 10 : deletes .js files in directory
 Task 11 : counts directories and sub directories
+Task 12 : shows the 10 newest files from oldest to newest
+
+
 
 
 
