@@ -18,6 +18,11 @@ Task 13 : shows unique words
 Task 14 : shows the pattern root from the given directory
 Task 15 : counts the number of times bin is present in the directory
 Task 16 : display lines containing root and 3 files after it
+Task 17 : Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+
+
+
+
 
 
 
