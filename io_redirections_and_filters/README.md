@@ -16,6 +16,8 @@ Task 11 : counts directories and sub directories
 Task 12 : shows the 10 newest files from oldest to newest
 Task 13 : shows unique words
 Task 14 : shows the pattern root from the given directory
+Task 15 : counts the number of times bin is present in the directory
+
 
 
 
