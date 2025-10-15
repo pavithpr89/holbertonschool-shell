@@ -2,5 +2,7 @@
 Author:  Pavith Rajapakse
 
 Task 1 : prints hello world !
+Task 2 : Prints a confused smiley !
+
 
 
