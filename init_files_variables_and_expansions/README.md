@@ -8,6 +8,8 @@ task 3 : Create a script that counts the number of directories in the PATH
 task 4 : Create a script that lists environment variables.
 task 5 : Create a script that lists all local variables and environment variables, and functions ( doesnt work check ) 
 task 6 : Create a script that creates a new local variable.
+task 7 : Create a script that creates a new global variable
+
 
 
 
